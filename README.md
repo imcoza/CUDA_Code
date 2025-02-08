@@ -1,6 +1,6 @@
 # Overview
 
-This repository contains CUDA code generated as part of a learning journey using Programming Massively Parallel Processors (PMPP) by David B. Kirk & Wen-mei W. Hwu and other resources. 
+This repository contains CUDA code generated as part of a learning journey.
 The primary objective is to develop a deep understanding of CUDA programming, parallel computing, and GPU optimizations through hands-on implementation.
 
 # Contents
